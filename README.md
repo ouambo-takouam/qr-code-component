@@ -18,7 +18,7 @@
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-page-using-css-grid-EjAhAx0YAS](https://www.frontendmentor.io/solutions/responsive-page-using-css-grid-EjAhAx0YAS)
 
 - Live Site URL: [https://qr-code-component-sigma-swart.vercel.app/](https://qr-code-component-sigma-swart.vercel.app/)
 
