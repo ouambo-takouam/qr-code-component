@@ -20,7 +20,7 @@
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
 
-- Live Site URL: [Add live site URL](https://qr-code-component-sigma-swart.vercel.app/)
+- Live Site URL: [https://qr-code-component-sigma-swart.vercel.app/](https://qr-code-component-sigma-swart.vercel.app/)
 
 ## My process
 
